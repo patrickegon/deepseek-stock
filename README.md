@@ -27,7 +27,7 @@
 This project aims to perform a comprehensive analysis and predictive modeling based on the historical stock data of five major technology companies: Apple (AAPL), Amazon (AMZN), Google (GOOGL), Microsoft (MSFT), and NVIDIA (NVDA). 
 By utilizing a range of statistical modeling and machine learning techniques, the analysis seeks to uncover market behavior patterns, forecast future trends, and provide valuable insights into the impact of big tech stocks on financial market dynamics.
 
-The dataset spans 15 years of daily data (from 01/01/2010 to 01/01/2025) and includes:
+The dataset spans 15 years of daily data (from 01/01/2010 to 01/05/2025) and includes:
 
 - Opening, closing, high, and low prices for each stock
 - Daily trading volume for each company
@@ -55,7 +55,7 @@ The main goal is to explore and predict stock movements using various time serie
 - prophet: Time series forecasting
 
 📊 **Complete Notebook**:  
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/patrickegon/deepseek-stock)  
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/patrickegon/deepseek-stock/notebook)  
 
 ---
 
@@ -66,6 +66,8 @@ Chinese startup founded in July 2023 in Hangzhou that launched AI models with:
 - Drastically reduced energy consumption
 - Initial model: DeepSeek-R1 (Jan 2025)
 - Advanced model: DeepSeek-V3 (671B parameters)
+- Open Source code and scientific article
+
 
 > *Sources: [Wikipedia](https://en.wikipedia.org/wiki/DeepSeek), [PBS](https://------------------)*
 
